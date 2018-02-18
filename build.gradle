@@ -7,6 +7,8 @@ ext{
     runnerVersion = '1.0.1'
     espressoVersion = '3.0.1'
     mockitoVersion = '2.8.47'
+    rxKotlinVersion = '2.2.0'
+    retrofitVersion = '2.3.0'
 }
 buildscript {
     ext.kotlinVersion = '1.2.21'
